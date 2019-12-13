@@ -884,3 +884,23 @@ ctx.lineTo(100, 210);
 ctx.lineTo(90, 210);
 ctx.lineTo(90, 200);
 ctx.fill();
+
+ctx.fillStyle = 'rgb(4, 1, 0)';
+
+ctx.beginPath();
+ctx.moveTo(120, 240);
+ctx.lineTo(140, 240);
+ctx.lineTo(140, 250);
+ctx.lineTo(120, 250);
+ctx.lineTo(120, 240);
+ctx.fill();
+
+ctx.fillStyle = 'rgb(4, 1, 0)';
+
+ctx.beginPath();
+ctx.moveTo(140, 230);
+ctx.lineTo(150, 230);
+ctx.lineTo(150, 240);
+ctx.lineTo(140, 240);
+ctx.lineTo(140, 230);
+ctx.fill();
