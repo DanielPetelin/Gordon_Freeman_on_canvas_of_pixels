@@ -1043,3 +1043,53 @@ ctx.lineTo(120, 250);
 ctx.lineTo(140, 250);
 ctx.lineTo(140, 240);
 ctx.fill();
+
+ctx.fillStyle = 'rgb(104, 90, 116)';
+
+ctx.beginPath();
+ctx.moveTo(120, 270);
+ctx.lineTo(180, 270);
+ctx.lineTo(180, 280);
+ctx.lineTo(120, 280);
+ctx.lineTo(120, 270);
+ctx.fill();
+
+ctx.fillStyle = 'rgb(104, 90, 116)';
+
+ctx.beginPath();
+ctx.moveTo(120, 290);
+ctx.lineTo(180, 290);
+ctx.lineTo(180, 300);
+ctx.lineTo(120, 300);
+ctx.lineTo(120, 290);
+ctx.fill();
+
+ctx.fillStyle = 'rgb(104, 90, 116)';
+
+ctx.beginPath();
+ctx.moveTo(190, 290);
+ctx.lineTo(200, 290);
+ctx.lineTo(200, 300);
+ctx.lineTo(190, 300);
+ctx.lineTo(190, 290);
+ctx.fill();
+
+ctx.fillStyle = 'rgb(104, 90, 116)';
+
+ctx.beginPath();
+ctx.moveTo(220, 270);
+ctx.lineTo(250, 270);
+ctx.lineTo(250, 280);
+ctx.lineTo(220, 280);
+ctx.lineTo(220, 270);
+ctx.fill();
+
+ctx.fillStyle = 'rgb(104, 90, 116)';
+
+ctx.beginPath();
+ctx.moveTo(210, 290);
+ctx.lineTo(240, 290);
+ctx.lineTo(240, 300);
+ctx.lineTo(210, 300);
+ctx.lineTo(210, 290);
+ctx.fill();
