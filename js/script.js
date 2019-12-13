@@ -143,7 +143,7 @@ ctx.lineTo(160, 100);
 ctx.lineTo(130, 100);
 ctx.fill();
 
-ctx.fillStyle = 'rgb(0, 0, 0)';
+ctx.fillStyle = 'rgb(4, 1, 0)';
 
 ctx.beginPath();
 ctx.moveTo(100, 90);
@@ -173,7 +173,7 @@ ctx.lineTo(160, 90);
 ctx.lineTo(100, 90);
 ctx.fill();
 
-ctx.fillStyle = 'rgb(0, 0, 0)';
+ctx.fillStyle = 'rgb(4, 1, 0)';
 
 ctx.beginPath();
 ctx.moveTo(170, 120);
@@ -183,7 +183,7 @@ ctx.lineTo(200, 120);
 ctx.lineTo(170, 120);
 ctx.fill();
 
-ctx.fillStyle = 'rgb(0, 0, 0)';
+ctx.fillStyle = 'rgb(4, 1, 0)';
 
 ctx.beginPath();
 ctx.moveTo(230, 120);
@@ -543,7 +543,7 @@ ctx.lineTo(110, 180);
 ctx.lineTo(110, 200);
 ctx.fill();
 
-ctx.fillStyle = 'rgb(0, 0, 0)';
+ctx.fillStyle = 'rgb(4, 1, 0)';
 
 ctx.beginPath();
 ctx.moveTo(10, 80);
@@ -553,7 +553,7 @@ ctx.lineTo(20, 80);
 ctx.moveTo(10, 80);
 ctx.fill();
 
-ctx.fillStyle = 'rgb(0, 0, 0)';
+ctx.fillStyle = 'rgb(4, 1, 0)';
 
 ctx.beginPath();
 ctx.moveTo(80, 210);
@@ -563,7 +563,7 @@ ctx.lineTo(90, 210);
 ctx.moveTo(80, 210);
 ctx.fill();
 
-ctx.fillStyle = 'rgb(0, 0, 0)';
+ctx.fillStyle = 'rgb(4, 1, 0)';
 
 ctx.beginPath();
 ctx.moveTo(80, 190);
@@ -833,12 +833,22 @@ ctx.lineTo(90, 200);
 ctx.lineTo(90, 190);
 ctx.fill();
 
-ctx.fillStyle = 'rgb(0, 0, 0)';
+ctx.fillStyle = 'rgb(4, 1, 0)';
 
 ctx.beginPath();
 ctx.moveTo(120, 180);
-ctx.lineTo(130, 180);
-ctx.lineTo(130, 190);
+ctx.lineTo(140, 180);
+ctx.lineTo(140, 190);
 ctx.lineTo(120, 190);
 ctx.lineTo(120, 180);
+ctx.fill();
+
+ctx.fillStyle = 'rgb(4, 1, 0)';
+
+ctx.beginPath();
+ctx.moveTo(110, 190);
+ctx.lineTo(120, 190);
+ctx.lineTo(120, 200);
+ctx.lineTo(110, 200);
+ctx.lineTo(110, 190);
 ctx.fill();
