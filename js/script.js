@@ -662,3 +662,13 @@ ctx.lineTo(10, 110);
 ctx.lineTo(10, 100);
 ctx.lineTo(0, 100);
 ctx.fill();
+
+ctx.fillStyle = 'rgb(79, 56, 72)';
+
+ctx.beginPath();
+ctx.moveTo(10, 70);
+ctx.lineTo(40, 70);
+ctx.lineTo(40, 80);
+ctx.lineTo(10, 80);
+ctx.lineTo(10, 70);
+ctx.fill();
