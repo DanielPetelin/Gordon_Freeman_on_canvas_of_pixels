@@ -919,3 +919,33 @@ ctx.lineTo(160, 200);
 ctx.lineTo(150, 200);
 ctx.lineTo(150, 190);
 ctx.fill();
+
+ctx.fillStyle = 'rgb(104, 90, 116)';
+
+ctx.beginPath();
+ctx.moveTo(140, 180);
+ctx.lineTo(150, 180);
+ctx.lineTo(150, 190);
+ctx.lineTo(140, 190);
+ctx.lineTo(140, 180);
+ctx.fill();
+
+ctx.fillStyle = 'rgb(104, 90, 116)';
+
+ctx.beginPath();
+ctx.moveTo(110, 170);
+ctx.lineTo(120, 170);
+ctx.lineTo(120, 180);
+ctx.lineTo(110, 180);
+ctx.lineTo(110, 170);
+ctx.fill();
+
+ctx.fillStyle = 'rgb(104, 90, 116)';
+
+ctx.beginPath();
+ctx.moveTo(100, 150);
+ctx.lineTo(110, 150);
+ctx.lineTo(110, 170);
+ctx.lineTo(100, 170);
+ctx.lineTo(100, 150);
+ctx.fill();
