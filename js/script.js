@@ -971,3 +971,33 @@ ctx.lineTo(250, 250);
 ctx.lineTo(230, 250);
 ctx.lineTo(230, 220);
 ctx.fill();
+
+ctx.fillStyle = 'rgb(4, 1, 0)';
+
+ctx.beginPath();
+ctx.moveTo(260, 240);
+ctx.lineTo(270, 240);
+ctx.lineTo(270, 250);
+ctx.lineTo(260, 250);
+ctx.lineTo(260, 240);
+ctx.fill();
+
+ctx.fillStyle = 'rgb(4, 1, 0)';
+
+ctx.beginPath();
+ctx.moveTo(270, 230);
+ctx.lineTo(300, 230);
+ctx.lineTo(300, 240);
+ctx.lineTo(270, 240);
+ctx.lineTo(270, 130);
+ctx.fill();
+
+ctx.fillStyle = 'rgb(4, 1, 0)';
+
+ctx.beginPath();
+ctx.moveTo(300, 240);
+ctx.lineTo(310, 240);
+ctx.lineTo(310, 250);
+ctx.lineTo(300, 250);
+ctx.lineTo(300, 140);
+ctx.fill();
