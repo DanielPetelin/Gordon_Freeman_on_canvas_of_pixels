@@ -1029,3 +1029,17 @@ ctx.lineTo(250, 260);
 ctx.lineTo(230, 260);
 ctx.lineTo(230, 250);
 ctx.fill();
+
+ctx.fillStyle = 'rgb(104, 90, 116)';
+
+ctx.beginPath();
+ctx.moveTo(140, 240);
+ctx.lineTo(150, 240);
+ctx.lineTo(150, 250);
+ctx.lineTo(170, 250);
+ctx.lineTo(170, 260);
+ctx.lineTo(120, 260);
+ctx.lineTo(120, 250);
+ctx.lineTo(140, 250);
+ctx.lineTo(140, 240);
+ctx.fill();
