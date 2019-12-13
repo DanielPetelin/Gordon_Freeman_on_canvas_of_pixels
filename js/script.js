@@ -1019,3 +1019,13 @@ ctx.lineTo(260, 220);
 ctx.lineTo(270, 220);
 ctx.lineTo(270, 210);
 ctx.fill();
+
+ctx.fillStyle = 'rgb(104, 90, 116)';
+
+ctx.beginPath();
+ctx.moveTo(230, 250);
+ctx.lineTo(250, 250);
+ctx.lineTo(250, 260);
+ctx.lineTo(230, 260);
+ctx.lineTo(230, 250);
+ctx.fill();
