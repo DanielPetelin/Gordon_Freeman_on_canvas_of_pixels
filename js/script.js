@@ -822,3 +822,13 @@ ctx.lineTo(260, 240);
 ctx.lineTo(250, 240);
 ctx.lineTo(250, 220);
 ctx.fill();
+
+ctx.fillStyle = 'rgb(79, 56, 72)';
+
+ctx.beginPath();
+ctx.moveTo(90, 190);
+ctx.lineTo(100, 190);
+ctx.lineTo(100, 200);
+ctx.lineTo(90, 200);
+ctx.lineTo(90, 190);
+ctx.fill();
