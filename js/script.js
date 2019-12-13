@@ -637,7 +637,7 @@ ctx.fillStyle = 'rgb(79, 56, 72)';
 
 ctx.beginPath();
 ctx.moveTo(20, 120);
-ctx.lineTo(30, 130);
+ctx.lineTo(20, 130);
 ctx.lineTo(30, 130);
 ctx.lineTo(30, 120);
 ctx.lineTo(20, 120);
@@ -647,7 +647,7 @@ ctx.fillStyle = 'rgb(79, 56, 72)';
 
 ctx.beginPath();
 ctx.moveTo(10, 110);
-ctx.lineTo(20, 120);
+ctx.lineTo(10, 120);
 ctx.lineTo(20, 120);
 ctx.lineTo(20, 110);
 ctx.lineTo(10, 110);
@@ -657,7 +657,7 @@ ctx.fillStyle = 'rgb(79, 56, 72)';
 
 ctx.beginPath();
 ctx.moveTo(0, 100);
-ctx.lineTo(10, 110);
+ctx.lineTo(0, 110);
 ctx.lineTo(10, 110);
 ctx.lineTo(10, 100);
 ctx.lineTo(0, 100);
