@@ -3,11 +3,11 @@
 <h3>Оригинал</h3>
 <img src="./immages/d9pe29e-66c7c05d-631a-4375-a708-d9775fe5b6a6.png">
 <h3>Результат</h3>
-<img src="./immages/capture-20191213-165049.png">
+<img src="./immages/capture-20191218-191109.png">
 <h2>Код</h2>
 <h3>JavaScript</h3>
 
-const canvas = document.querySelector('#canvas');
+```const canvas = document.querySelector('#canvas');
 console.log(canvas);
 
 var ctx = canvas.getContext('2d');
@@ -1018,7 +1018,7 @@ ctx.moveTo(270, 210);
 ctx.lineTo(300, 210);
 ctx.lineTo(300, 220);
 ctx.lineTo(310, 220);
-ctx.lineTo(310, 240);
+ctx.lineTo(310, 240);```
 ctx.lineTo(300, 240);
 ctx.lineTo(300, 230);
 ctx.lineTo(270, 230);
@@ -1162,10 +1162,10 @@ ctx.lineTo(260, 120);
 ctx.lineTo(230, 120);
 ctx.lineTo(230, 90);
 ctx.fill();
+```
+<h2>HTML</h2>
 
-<h3>HTML</h3>
-
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -1178,3 +1178,5 @@ ctx.fill();
     <script src="./js/script.js"></script>
 </body>
 </html>
+
+```
