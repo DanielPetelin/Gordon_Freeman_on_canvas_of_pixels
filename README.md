@@ -1163,7 +1163,7 @@ ctx.lineTo(230, 120);
 ctx.lineTo(230, 90);
 ctx.fill();
 ```
-<h2>HTML</h2>
+<h3>HTML</h3>
 
 ```<!DOCTYPE html>
 <html lang="en">
